@@ -1,0 +1,10 @@
+# Tools Config
+.vscode
+.idea
+
+# Product
+build
+bin
+
+# OS Config
+.DS_Store
